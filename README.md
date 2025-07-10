@@ -13,3 +13,5 @@ This repository is part of the IBM GitHub assignment.
 ## Author
 
 Kenton Coding
+
+ fixing a typo
